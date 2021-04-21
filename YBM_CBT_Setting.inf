@@ -1,6 +1,8 @@
 [update]
 newversion=1,1,0,2
-localversion=YBM_CBT_Setting
+update=1590784
+newchecksum=1
+localversion=1,1,0,1
 descr=New version is ready for download
 
 [action]
