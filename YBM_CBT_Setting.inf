@@ -1,0 +1,26 @@
+[update]
+newversion=1,1,0,2
+localversion=YBM_CBT_Setting
+descr=New version is ready for download
+
+[action]
+query=자동업데이트를 실행하시겠습니까?
+
+[whatsnew]
+file=https://raw.githubusercontent.com/hanuleye/ybm_cbt/master/whatsnew.txt
+
+[eula]
+file=https://raw.githubusercontent.com/hanuleye/ybm_cbt/master/license.txt
+
+[files]
+count=1
+
+[file1]
+url=https://raw.githubusercontent.com/hanuleye/ybm_cbt/master/YBM_CBT_Setting.exe_NEW
+descr=Application 
+filesize=1590784
+
+[application]
+appupdate=1
+appname=YBM_CBT_Setting.exe
+appcomps=YBM_CBT_Setting.exe_NEW

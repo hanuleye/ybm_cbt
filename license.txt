@@ -1,0 +1,15 @@
+TMS TWEBUPDATE LICENSE AGREEMENT
+---------------------------------
+
+TWebUpdate can be used free for 
+non-commercial use. With non-commercial
+use, use in a commercial environments,
+for internal use in a company, for use
+in applications that generate in any
+way an income or where its time saving
+is generating income is excluded.
+
+For commercial use, priority support and
+free updates for a full version cycle,
+registration for TWebUpdate can be done
+at http://www.tmssoftware.com
