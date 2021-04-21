@@ -3,10 +3,10 @@ newversion=1,1,0,2
 newsize=1590784
 newchecksum=1
 localversion=1,1,0,1
-descr=New version is ready for download
+descr=New version is ready for download...
 
 [action]
-query=자동업데이트를 실행하시겠습니까?
+query=Proceed with automatic update ?
 
 [whatsnew]
 file=https://raw.githubusercontent.com/hanuleye/ybm_cbt/master/whatsnew.txt
